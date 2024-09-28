@@ -1,0 +1,27 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "123123",
+    "id": "UYz_2Vy9rNw7uELQ7AZ8D"
+  },
+  {
+    "email": "nana@lalala.com",
+    "password": "123456",
+    "id": "tVRpYmt8UhqAJJ9-6p_BX"
+  },
+  {
+    "email": "dubidu@dubidu.com",
+    "password": "123456",
+    "id": "W5eIniaOMVcfCJwekwCzC"
+  },
+  {
+    "email": "lulu@lulu.com",
+    "password": "1234567",
+    "id": "1aH7smYySBbhbNLEoxDpm"
+  },
+  {
+    "email": "pikmin@pikmin.com",
+    "password": "pikmin",
+    "id": "z4RJ7QKAfR4aM2657H5Pb"
+  }
+]
